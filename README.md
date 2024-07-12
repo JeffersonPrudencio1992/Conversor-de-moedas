@@ -3,3 +3,5 @@
 <img src="./assets/javascript_logo.png">
 <img src="./assets/css_icon.png">
 <img src="./assets/html_ico.png">
+<img src="./assets/img-projeto-pronto.png" width: 300px>
+<img src="./assets/img-projeto-pronto-responsivo.png" width: 150px>
